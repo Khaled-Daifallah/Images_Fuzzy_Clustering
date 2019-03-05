@@ -1,0 +1,17 @@
+L:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\bin\Debug\FClus.exe
+L:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\bin\Debug\FClus.pdb
+L:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\ResolveAssemblyReference.cache
+L:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.Properties.Resources.resources
+L:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.csproj.GenerateResource.Cache
+L:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.exe
+L:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.pdb
+I:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.exe
+I:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.pdb
+I:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\bin\Debug\FClus.exe
+I:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\bin\Debug\FClus.pdb
+I:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\ResolveAssemblyReference.cache
+I:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.Properties.Resources.resources
+I:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.csproj.GenerateResource.Cache
+I:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.Form1.resources
+N:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.exe
+N:\FuzzyLogic_ASSA\Fuzzy_Clustering\FClus\FClus\obj\Debug\FClus.pdb
